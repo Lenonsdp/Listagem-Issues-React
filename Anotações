@@ -68,3 +68,5 @@ vscode-styled-components """ extensão """
 
 yarn add react-icons
 
+yarn add axios
+
